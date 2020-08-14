@@ -238,14 +238,14 @@ select {
   text-align: center;
 }
 .home .intro img {
-  height: 300px;
-  width: 300px;
+  height: 280px;
+  width: 280px;
   border-radius: 50%;
   display: inline-block;
   border: 8px solid #ffffff;
 }
 .home .intro h1 {
-  font-size: 50px;
+  font-size: 40px;
   color: #302e4d;
   font-family: "Rubik", sans-serif;
   font-weight: 700;
